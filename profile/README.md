@@ -17,8 +17,6 @@ Topos is the first zkEcosystem, allowing developers to deploy sovereign executio
 
 </div>
 
-[![](https://dcbadge.vercel.app/api/server/7HZ8F8ykBT?style=flat)](https://discord.gg/7HZ8F8ykBT)
-
 
 ## Resources
 - Website: https://toposware.com
