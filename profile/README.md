@@ -29,4 +29,6 @@ Topos is the first zkEcosystem, allowing developers to deploy sovereign executio
   
 ## Attributions
 
-Developped by the zk Foundation.
+Portions of the code have been developed by Toposware for the zk Foundation.
+
+The [Topos-Network](https://github.com/topos-network) GitHub Organization is owned and operated by the zk Foundation.
