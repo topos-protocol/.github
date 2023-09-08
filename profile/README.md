@@ -20,7 +20,7 @@ Topos is the first zkEcosystem, allowing developers to deploy sovereign executio
 
 ## Resources
 - Website: https://toposware.com
-- Technical Documentation: https://docs.toposware.com
+- Technical Documentation: https://docs.topos.technology
 - Medium: https://toposware.medium.com
 - Whitepaper: [Topos: A Secure, Trustless, and Decentralized
   Interoperability Protocol](https://arxiv.org/pdf/2206.03481.pdf)
